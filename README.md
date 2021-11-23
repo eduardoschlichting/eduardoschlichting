@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! I'm Eduardo, but you can call me Ed! 👋
 
-<!--
-**eduardoschlichting/eduardoschlichting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/eduardoschlichting/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white&style=flat)](https://eduardoschlichting.com/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/eduschlichting/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a designer and front-end web developer based in London, Ontario. I like to create pleasant, beautiful, and functional stuff for the internet.
+
+- 🔭 I’m currently working on something super cool;
+- 🌱 I’m currently learning JavaScript and Vue.Js;
+- 📫 How to reach me: schlichting.eduardo@gmail.com;
+
