@@ -12,4 +12,6 @@ I’m a designer and front-end web developer based in London, Ontario. I like to
 - 📫 How to reach me: schlichting.eduardo@gmail.com;
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoschlichting)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoschlichting)](https://github.com/anuraghazra/github-readme-stats)
+
 
