@@ -9,7 +9,7 @@ I’m a designer and front-end web developer based in London, Ontario. I like to
 
 - 🔭 I’m currently working on something super cool;
 - 🌱 I’m currently learning JavaScript and Vue.Js;
-- 📫 How to reach me: schlichting.eduardo@gmail.com;
+- 📫 How to reach me: edu@eduschlichting.com;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoschlichting&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
