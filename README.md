@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white&style=flat)](https://eduardoschlichting.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/eduschlichting/)
 
-I’m a designer and full-stack based in London, Ontario. I like to create pleasant, beautiful, and functional stuff for the internet.
+I’m a designer and full-stack developer based in London, Ontario. I like to create pleasant, beautiful, and functional stuff for the internet.
 
 - 🔭 I’m currently working on something super cool;
 - 🌱 Today I'm learning Vue.js, Node and Express;
