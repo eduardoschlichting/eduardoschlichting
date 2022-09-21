@@ -8,7 +8,7 @@
 I’m a designer and full-stack developer based in London, Ontario. I like to create pleasant, beautiful, and functional stuff for the internet.
 
 - 🔭 I’m currently working on something super cool;
-- 🌱 Today I'm learning Vue.js, Node, Express, PHP and Lumen;
+- 🌱 I've been learning React, Drupal, Symfony, and a bit of React sometimes;
 - 📫 How to reach me: ed@eduardoschlichting.com;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoschlichting&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
